@@ -6,7 +6,7 @@ var appDiv = document.getElementById('app');
 var appDiv2 = document.getElementById('app2');
 
 var username = 'Tasos';
-var surname = 'Sardelis';
+var surname = 'Sardeliss';
 var template = React.createElement(
     'div',
     null,
